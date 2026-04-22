@@ -71,9 +71,9 @@ export default function Intro() {
           <h2 className="font-display text-xl font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>
             {tOff('title')}
           </h2>
-          <p className="text-base leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
+          <div className="text-base leading-relaxed whitespace-pre-wrap" style={{ color: 'var(--text-secondary)' }}>
             {tOff('text')}
-          </p>
+          </div>
         </div>
 
         {/* Trip.com Ad 1 */}

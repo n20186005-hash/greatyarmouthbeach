@@ -13,9 +13,9 @@
   "hero": {
     "title": "大雅茅斯海灘",
     "subtitle": "諾福克最具標誌性的海灘目的地",
-    "rating": "4.6/5",
-    "reviewCount": "Thousands of reviews",
-    "hours": "全天候開放",
+    "rating": "4.5(15,409)",
+    "reviewCount": "15,409 則評論",
+    "hours": "24 小時開放",
     "openMaps": "查看位置"
   },
   "intro": {
@@ -128,21 +128,45 @@
   },
   "privacy": {
     "title": "隱私權政策",
-    "lastUpdated": "Last updated: March 2026",
+    "lastUpdated": "最後更新：2026年3月",
     "sections": [
       {
-        "heading": "Information Collection",
-        "content": "We generally do not actively collect personally identifiable information from users."
+        "heading": "1. 資訊收集",
+        "content": "我們通常不會主動收集用戶的個人可識別資訊。您透過聯繫表單或電子郵件提供的任何資訊將被嚴格保密。"
+      },
+      {
+        "heading": "2. 資訊使用",
+        "content": "我們收集的資訊僅用於提供、維護和改進我們的服務，以及與您溝通。我們不會將您的個人資訊出售或分享給第三方用於行銷目的。"
+      },
+      {
+        "heading": "3. Cookie與追蹤技術",
+        "content": "我們使用Cookie和類似的追蹤技術來追蹤我們網站上的活動並保存某些資訊。您可以指示您的瀏覽器拒絕所有Cookie或在發送Cookie時進行提示。"
+      },
+      {
+        "heading": "4. 數據安全",
+        "content": "您數據的安全性對我們很重要。我們努力使用商業上可接受的方式來保護您的個人數據，但任何互聯網傳輸方法都無法保證100%安全。"
       }
     ]
   },
   "terms": {
     "title": "服務條款",
-    "lastUpdated": "Last updated: March 2026",
+    "lastUpdated": "最後更新：2026年3月",
     "sections": [
       {
-        "heading": "Acceptance of Terms",
-        "content": "By accessing and using this website, you agree to be bound by these terms of service."
+        "heading": "1. 接受條款",
+        "content": "通過訪問和使用本網站，您同意受這些服務條款的約束。如果您不同意條款的任何部分，則不得訪問該服務。"
+      },
+      {
+        "heading": "2. 服務使用",
+        "content": "本網站是一個獨立的第三方旅遊資訊項目。提供的資訊僅供一般參考。您同意負責任且合法地使用本網站。"
+      },
+      {
+        "heading": "3. 知識產權",
+        "content": "本網站上的所有內容（包括文本、圖像和徽標）均為網站所有者的財產（另有說明的除外）。嚴禁未經授權的使用、複製或分發。"
+      },
+      {
+        "heading": "4. 責任限制",
+        "content": "對於因使用或無法使用本網站或其中包含的資訊而導致的任何直接、間接、附帶或後果性損害，我們概不負責。"
       }
     ]
   },
@@ -166,8 +190,8 @@
     "saved": "設定已儲存！"
   },
   "officialManagement": {
-    "title": "關於本專案",
-    "text": "本網站是一個獨立的第三方旅遊資訊項目。"
+    "title": "大雅茅斯海灘介紹",
+    "text": "大雅茅斯海灘（Great Yarmouth Beach）位於英國英格蘭東部的諾福克郡（Norfolk），是一處歷史悠久、極具代表性的傳統海濱度假勝地。\n\n一、歸屬與管理\n• 行政歸屬：屬於大雅茅斯自治市鎮（Borough of Great Yarmouth），上級行政單位為諾福克郡議會（Norfolk County Council）。\n• 直接管理方：海灘的日常營運、清潔、安全及設施維護，由大雅茅斯自治市鎮議會（Great Yarmouth Borough Council）全權負責。\n• 旅遊推廣：由官方目的地管理組織 GYTABIA (Greater Yarmouth Tourism and Business Improvement Area Ltd) 進行市場推廣。\n\n二、主要特點\n綿長的優質沙灘\n• 海岸線綿延 15 英里（約 24 公里），從北部的 Winterton-on-Sea 直至南部的 Hopton-on-Sea。\n• 沙質細膩、乾淨、呈金黃色，潮間帶寬闊，即使漲潮也有大片沙灘可供活動。\n• 水質優良，多次榮獲藍旗認證（Blue Flag）與海洋保護協會獎。\n\n經典的英式海濱娛樂\n• 兩座碼頭（Piers）：Wellington Pier（1853 年建）與 Britannia Pier，集觀景、演出、餐飲於一體。\n• 歡樂海灘（Pleasure Beach）：歷史悠久的傳統遊樂園，有過山車、旋轉木馬等經典遊樂設施。\n• 海濱長廊（Marine Parade）：遍佈拱廊遊戲廳、酒吧、炸魚薯條店、紀念品商店，氛圍熱鬧。\n\n完善的設施與服務\n• 提供救生員巡邏、急救站、免費沙灘輪椅租賃。\n• 設有大量停車場、公共廁所與野餐區，適合家庭親子遊。\n• 北部區域有沙丘與濕地，是觀鳥勝地。\n\n三、歷史沿革\n中世紀至近代：漁港起源\n• 大雅茅斯自中世紀起就是英國最重要的鯡魚漁港之一，漁業是當地經濟支柱。\n• 1208 年，國王約翰授予城鎮特許狀，13 世紀修建了英格蘭保存最完整的中世紀城牆之一。\n• 因地處北海與雅河（River Yare）河口，戰略位置重要，長期為繁忙商港。\n\n18 世紀：度假勝地的誕生\n• 1760 年左右，隨著海水浴健康風潮興起，這裡從漁港轉型為海濱度假地。\n• 19 世紀鐵路（1844 年）開通後，中產階級遊客激增，度假產業迅速繁榮。\n\n20 世紀：黃金時代與變遷\n• 愛德華時代（1901-1910）至二戰後：迎來黃金期，修建大量維多利亞 / 愛德華風格的娛樂建築。\n• 一戰與二戰：因地處東岸，曾遭齊柏林飛艇空襲與海軍炮擊。\n• 戰後至現代：雖受海外度假衝擊，但憑藉傳統魅力與設施升級，仍是英國最受歡迎的家庭海濱度假地之一。"
   },
   "recommendations": {
     "title": "探索更多",

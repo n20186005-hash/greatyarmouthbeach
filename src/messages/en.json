@@ -13,9 +13,9 @@
   "hero": {
     "title": "Great Yarmouth Beach",
     "subtitle": "The most iconic beach destination in Norfolk",
-    "rating": "4.6/5",
-    "reviewCount": "Thousands of reviews",
-    "hours": "Open 24h/24",
+    "rating": "4.5(15,409)",
+    "reviewCount": "15,409 reviews",
+    "hours": "Open 24 hours",
     "openMaps": "View Location"
   },
   "intro": {
@@ -131,8 +131,20 @@
     "lastUpdated": "Last updated: March 2026",
     "sections": [
       {
-        "heading": "Information Collection",
-        "content": "We generally do not actively collect personally identifiable information from users."
+        "heading": "1. Information Collection",
+        "content": "We generally do not actively collect personally identifiable information from users. Any information provided by you through contact forms or emails will be kept strictly confidential."
+      },
+      {
+        "heading": "2. Use of Information",
+        "content": "The information we collect is used solely to provide, maintain, and improve our services, and to communicate with you. We do not sell or share your personal information with third parties for marketing purposes."
+      },
+      {
+        "heading": "3. Cookies and Tracking",
+        "content": "We use cookies and similar tracking technologies to track the activity on our website and hold certain information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent."
+      },
+      {
+        "heading": "4. Data Security",
+        "content": "The security of your data is important to us. We use commercially acceptable means to protect your Personal Data, though no method of transmission over the Internet is 100% secure."
       }
     ]
   },
@@ -141,8 +153,20 @@
     "lastUpdated": "Last updated: March 2026",
     "sections": [
       {
-        "heading": "Acceptance of Terms",
-        "content": "By accessing and using this website, you agree to be bound by these terms of service."
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service. If you disagree with any part of the terms, you may not access the service."
+      },
+      {
+        "heading": "2. Use of Service",
+        "content": "This website is an independent third-party tourist information project. The information provided is for general informational purposes only. You agree to use the site responsibly and lawfully."
+      },
+      {
+        "heading": "3. Intellectual Property",
+        "content": "All content on this website, including texts, images, and logos, is the property of the website owner unless otherwise stated. Unauthorized use, reproduction, or distribution is strictly prohibited."
+      },
+      {
+        "heading": "4. Limitation of Liability",
+        "content": "We shall not be held liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use this website or the information contained herein."
       }
     ]
   },
@@ -166,8 +190,8 @@
     "saved": "Preferences saved!"
   },
   "officialManagement": {
-    "title": "About This Project",
-    "text": "This website is an independent third-party tourist information project."
+    "title": "About Great Yarmouth Beach",
+    "text": "Great Yarmouth Beach is located in Norfolk, eastern England, and is a historic and highly representative traditional seaside resort.\n\n1. Ownership and Management\n• Administration: Falls under the Borough of Great Yarmouth, with the Norfolk County Council as the higher administrative authority.\n• Direct Management: Daily operations, cleaning, safety, and facility maintenance are entirely handled by the Great Yarmouth Borough Council.\n• Tourism Promotion: Marketed by the official destination management organization GYTABIA (Greater Yarmouth Tourism and Business Improvement Area Ltd).\n\n2. Key Features\nLong, High-Quality Sandy Beaches\n• The coastline stretches for 15 miles (about 24 kilometers), from Winterton-on-Sea in the north to Hopton-on-Sea in the south.\n• The sand is fine, clean, and golden, with a wide intertidal zone ensuring plenty of space even at high tide.\n• Excellent water quality, frequently awarded the Blue Flag certification and Marine Conservation Society awards.\n\nClassic British Seaside Entertainment\n• Two Piers: Wellington Pier (built in 1853) and Britannia Pier, combining views, performances, and dining.\n• Pleasure Beach: A historic traditional amusement park featuring classic rides like roller coasters and carousels.\n• Marine Parade: A lively promenade packed with arcade halls, pubs, fish and chips shops, and souvenir stores.\n\nExcellent Facilities and Services\n• Lifeguard patrols, first aid stations, and free beach wheelchair rentals are available.\n• Plentiful parking, public restrooms, and picnic areas make it ideal for family trips.\n• The northern area features dunes and wetlands, making it a prime spot for bird watching.\n\n3. Historical Background\nMiddle Ages to Early Modern: Origins as a Fishing Port\n• Since the Middle Ages, Great Yarmouth was one of Britain's most important herring fishing ports, with fishing as the local economic pillar.\n• In 1208, King John granted the town a charter, and in the 13th century, one of England's most complete medieval town walls was built.\n• Located at the mouth of the River Yare and the North Sea, its strategic position made it a busy commercial port for a long time.\n\n18th Century: Birth of a Resort\n• Around 1760, with the rise of the sea bathing health trend, it transformed from a fishing port to a seaside resort.\n• The opening of the railway in the 19th century (1844) led to a surge in middle-class tourists and a booming resort industry.\n\n20th Century: Golden Age and Changes\n• Edwardian Era (1901-1910) to Post-WWII: The golden era saw the construction of many Victorian/Edwardian entertainment buildings.\n• WWI and WWII: Located on the east coast, it suffered Zeppelin air raids and naval bombardments.\n• Post-War to Modern Day: Despite the impact of overseas holidays, it remains one of the UK's most popular family seaside destinations thanks to its traditional charm and upgraded facilities."
   },
   "recommendations": {
     "title": "Discover More",

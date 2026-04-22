@@ -13,9 +13,9 @@
   "hero": {
     "title": "大雅茅斯海灘",
     "subtitle": "諾福克最具標誌性的海灘目的地",
-    "rating": "4.6/5",
-    "reviewCount": "Thousands of reviews",
-    "hours": "全天候開放",
+    "rating": "4.5(15,409)",
+    "reviewCount": "15,409 則評論",
+    "hours": "24 小時開放",
     "openMaps": "查看位置"
   },
   "intro": {
@@ -127,22 +127,46 @@
     "disclaimer": "本網站是一個獨立的第三方旅遊資訊項目。我們與當地政府或其他官方機構沒有任何關聯。"
   },
   "privacy": {
-    "title": "隱私權政策",
+    "title": "Privacy Policy",
     "lastUpdated": "Last updated: March 2026",
     "sections": [
       {
-        "heading": "Information Collection",
-        "content": "We generally do not actively collect personally identifiable information from users."
+        "heading": "1. Information Collection",
+        "content": "We generally do not actively collect personally identifiable information from users. Any information provided by you through contact forms or emails will be kept strictly confidential."
+      },
+      {
+        "heading": "2. Use of Information",
+        "content": "The information we collect is used solely to provide, maintain, and improve our services, and to communicate with you. We do not sell or share your personal information with third parties for marketing purposes."
+      },
+      {
+        "heading": "3. Cookies and Tracking",
+        "content": "We use cookies and similar tracking technologies to track the activity on our website and hold certain information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent."
+      },
+      {
+        "heading": "4. Data Security",
+        "content": "The security of your data is important to us. We use commercially acceptable means to protect your Personal Data, though no method of transmission over the Internet is 100% secure."
       }
     ]
   },
   "terms": {
-    "title": "服務條款",
+    "title": "Terms of Service",
     "lastUpdated": "Last updated: March 2026",
     "sections": [
       {
-        "heading": "Acceptance of Terms",
-        "content": "By accessing and using this website, you agree to be bound by these terms of service."
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service. If you disagree with any part of the terms, you may not access the service."
+      },
+      {
+        "heading": "2. Use of Service",
+        "content": "This website is an independent third-party tourist information project. The information provided is for general informational purposes only. You agree to use the site responsibly and lawfully."
+      },
+      {
+        "heading": "3. Intellectual Property",
+        "content": "All content on this website, including texts, images, and logos, is the property of the website owner unless otherwise stated. Unauthorized use, reproduction, or distribution is strictly prohibited."
+      },
+      {
+        "heading": "4. Limitation of Liability",
+        "content": "We shall not be held liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use this website or the information contained herein."
       }
     ]
   },
@@ -166,8 +190,8 @@
     "saved": "設定已儲存！"
   },
   "officialManagement": {
-    "title": "關於本專案",
-    "text": "本網站是一個獨立的第三方旅遊資訊項目。"
+    "title": "Informazioni su Great Yarmouth Beach",
+    "text": "Great Yarmouth Beach si trova nel Norfolk, nell'Inghilterra orientale, ed è una località balneare tradizionale storica e altamente rappresentativa.\n\n1. Proprietà e gestione\n• Amministrazione: Rientra nel distretto di Great Yarmouth, con il consiglio della contea di Norfolk come autorità amministrativa superiore.\n• Gestione diretta: Le operazioni quotidiane, la pulizia, la sicurezza e la manutenzione delle strutture sono gestite interamente dal consiglio del distretto di Great Yarmouth.\n• Promozione turistica: Commercializzato dall'organizzazione ufficiale di gestione della destinazione GYTABIA (Greater Yarmouth Tourism and Business Improvement Area Ltd).\n\n2. Caratteristiche principali\nLunghe spiagge sabbiose di alta qualità\n• La costa si estende per 15 miglia (circa 24 chilometri), da Winterton-on-Sea a nord fino a Hopton-on-Sea a sud.\n• La sabbia è fine, pulita e dorata, con un'ampia zona intertidale che garantisce molto spazio anche con l'alta marea.\n• Eccellente qualità dell'acqua, premiata frequentemente con la certificazione Bandiera Blu e i premi della Marine Conservation Society.\n\nClassico intrattenimento balneare britannico\n• Due moli: Wellington Pier (costruito nel 1853) e Britannia Pier, che combinano viste, spettacoli e ristoranti.\n• Pleasure Beach: Uno storico parco divertimenti tradizionale che offre giostre classiche come montagne russe e caroselli.\n• Marine Parade: Un vivace lungomare ricco di sale giochi, pub, negozi di fish and chips e negozi di souvenir.\n\nStrutture e servizi eccellenti\n• Sono disponibili pattuglie di bagnini, postazioni di primo soccorso e noleggio gratuito di sedie a rotelle da spiaggia.\n• Numerosi parcheggi, bagni pubblici e aree picnic la rendono ideale per le gite in famiglia.\n• L'area settentrionale è caratterizzata da dune e zone umide, che la rendono un luogo privilegiato per il birdwatching.\n\n3. Contesto storico\nDal Medioevo alla prima età moderna: origini come porto di pescatori\n• Fin dal Medioevo, Great Yarmouth è stato uno dei più importanti porti di pesca delle aringhe della Gran Bretagna, con la pesca come pilastro economico locale.\n• Nel 1208, re Giovanni concesse alla città uno statuto e nel XIII secolo fu costruita una delle mura cittadine medievali più complete d'Inghilterra.\n• Situata alla foce del fiume Yare e del Mare del Nord, la sua posizione strategica ne fece a lungo un porto commerciale molto trafficato.\n\nXVIII secolo: nascita di una località di villeggiatura\n• Intorno al 1760, con l'ascesa della tendenza salutista dei bagni in mare, si trasformò da porto di pescatori a località balneare.\n• L'apertura della ferrovia nel XIX secolo (1844) portò a un'ondata di turisti della classe media e a una fiorente industria del turismo.\n\nXX secolo: età d'oro e cambiamenti\n• Dall'era edoardiana (1901-1910) al secondo dopoguerra: L'età d'oro vide la costruzione di molti edifici di intrattenimento vittoriani/edoardiani.\n• Prima e seconda guerra mondiale: Situata sulla costa orientale, subì incursioni aeree di Zeppelin e bombardamenti navali.\n• Dal dopoguerra ai giorni nostri: Nonostante l'impatto delle vacanze all'estero, rimane una delle destinazioni balneari per famiglie più popolari del Regno Unito grazie al suo fascino tradizionale e alle strutture rinnovate."
   },
   "recommendations": {
     "title": "探索更多",
