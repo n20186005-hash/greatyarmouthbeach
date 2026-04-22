@@ -75,19 +75,6 @@ export default function Intro() {
             {tOff('text')}
           </div>
         </div>
-
-        {/* Trip.com Ad 1 */}
-        <div className="mt-12 flex justify-center w-full">
-          <div className="w-full max-w-[728px] overflow-hidden rounded-lg shadow-sm bg-white dark:bg-gray-800 flex justify-center">
-            <iframe
-              src="https://www.trip.com/partners/ad/SB15306342?Allianceid=7974128&SID=300882170&trip_sub1=%E5%B7%B4%E9%87%8C%E5%BB%A3%E5%9F%9F%E5%B8%82"
-              style={{ width: '728px', height: '90px', border: 'none' }}
-              scrolling="no"
-              id="SB15306342"
-              title="Trip.com Ad 1"
-            />
-          </div>
-        </div>
       </div>
     </section>
   );
