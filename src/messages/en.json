@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "title": "Great Yarmouth Beach | United Kingdom",
+    "description": "Complete guide to Great Yarmouth Beach in the United Kingdom. Hours, directions, photos and reviews."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Great Yarmouth Beach",
+    "subtitle": "The most iconic beach destination in Norfolk",
+    "rating": "4.6/5",
+    "reviewCount": "Thousands of reviews",
+    "hours": "Open 24h/24",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Discover the Beach",
+    "description": "Located in the coastal town of Great Yarmouth, this beautiful sandy beach is one of the UK's most popular seaside destinations. With its golden sands, historic piers, and endless entertainment, Great Yarmouth Beach offers a perfect coastal getaway for visitors of all ages.",
+    "visitGuide": {
+      "title": "Visit Guide",
+      "items": [
+        "Great Yarmouth Beach is a public beach open for free, accessible 24 hours a day.",
+        "No tickets or reservations are required to access the beach.",
+        "We recommend visiting during the summer months to enjoy the full range of seaside attractions.",
+        "Enjoy the traditional British seaside experience, complete with fish and chips, amusement arcades, and a vibrant promenade."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Also Known As",
+      "items": [
+        "Great Yarmouth Seafront",
+        "Marine Parade Beach",
+        "The Golden Mile"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Explore Great Yarmouth's Coastal Charm",
+    "sections": [
+      {
+        "id": "beach",
+        "title": "The Golden Sands",
+        "content": "Great Yarmouth boasts miles of glorious sandy beaches that have attracted visitors since the late 18th century. The wide, soft sandy shores are perfect for building sandcastles, sunbathing, or taking a refreshing dip in the North Sea."
+      },
+      {
+        "id": "promenade",
+        "title": "The Golden Mile",
+        "content": "Running alongside the beach is the famous Marine Parade, often referred to as the 'Golden Mile'. This vibrant promenade is packed with attractions, including indoor and outdoor amusement parks, crazy golf courses, bowling alleys, and the iconic Joyland theme park."
+      },
+      {
+        "id": "piers",
+        "title": "Historic Piers",
+        "content": "The beach is framed by two magnificent historic piers: the Britannia Pier and the Wellington Pier. Both offer a variety of entertainment options, from live shows in their theaters to traditional amusement arcades and stunning views across the coastline."
+      },
+      {
+        "id": "history",
+        "title": "A Rich Seaside Heritage",
+        "content": "Great Yarmouth's transition from a bustling fishing port to a premier seaside resort began in the Victorian era. Today, it beautifully blends its rich maritime history with modern family entertainment, making it a timeless destination for holidaymakers."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Views from the beach and promenade",
+    "captions": [
+      "Golden sands of Great Yarmouth",
+      "The vibrant Marine Parade",
+      "Historic Britannia Pier",
+      "Traditional seaside amusements",
+      "Sunset over the North Sea",
+      "Family fun on the beach"
+    ],
+    "viewAll": "View locations on Google Maps"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
+    "moreReviews": "View locations on Google Maps",
+    "items": [
+      {
+        "name": "Sarah Johnson",
+        "date": "August 2025",
+        "rating": 5,
+        "text": "A fantastic beach with so much to do! The kids loved the amusements and the sand is perfect."
+      },
+      {
+        "name": "David Smith",
+        "date": "July 2025",
+        "rating": 4,
+        "text": "Great traditional British seaside. Gets busy in summer but there's plenty of space."
+      },
+      {
+        "name": "Emma Brown",
+        "date": "June 2025",
+        "rating": 5,
+        "text": "Beautiful wide sandy beach. The walk along the promenade is wonderful, especially with an ice cream!"
+      },
+      {
+        "name": "James Wilson",
+        "date": "September 2025",
+        "rating": 5,
+        "text": "Lovely clean beach and great facilities nearby. The piers are a must-visit."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "How to Get Here",
+    "subtitle": "47 Collingwood Rd, Great Yarmouth NR30 4LR, United Kingdom",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Great Yarmouth Independent Travel Research Association · All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Related Resources & Information",
+    "officialLinks": {
+      "council": "Great Yarmouth Borough Council",
+      "tourism": "Visit Great Yarmouth",
+      "england": "Visit England"
+    },
+    "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: March 2026",
+    "sections": [
+      {
+        "heading": "Information Collection",
+        "content": "We generally do not actively collect personally identifiable information from users."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: March 2026",
+    "sections": [
+      {
+        "heading": "Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Strictly Necessary Cookies",
+      "description": "Required for basic website functionality.",
+      "badge": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "Help us understand how visitors interact with the site."
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "Used to track visitors across websites."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences saved!"
+  },
+  "officialManagement": {
+    "title": "About This Project",
+    "text": "This website is an independent third-party tourist information project."
+  },
+  "recommendations": {
+    "title": "Discover More",
+    "attractionsTitle": "Nearby Attractions",
+    "toursTitle": "Recommended Tours & Activities",
+    "attractions": [],
+    "tours": []
+  }
+}

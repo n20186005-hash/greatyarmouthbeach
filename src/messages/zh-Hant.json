@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "title": "大雅茅斯海灘 | 英國",
+    "description": "大雅茅斯海灘完整指南。營業時間、交通路線、照片和評論。"
+  },
+  "header": {
+    "home": "首頁",
+    "gallery": "圖庫",
+    "reviews": "評論",
+    "map": "地圖",
+    "backToHome": "返回首頁"
+  },
+  "hero": {
+    "title": "大雅茅斯海灘",
+    "subtitle": "諾福克最具標誌性的海灘目的地",
+    "rating": "4.6/5",
+    "reviewCount": "Thousands of reviews",
+    "hours": "全天候開放",
+    "openMaps": "查看位置"
+  },
+  "intro": {
+    "title": "探索海灘",
+    "description": "這片美麗的沙灘位於大雅茅斯海濱小鎮，是英國最受歡迎的海濱目的地之一。憑藉其金色的沙灘、歷史悠久的碼頭和無盡的娛樂活動，大雅茅斯海灘為各個年齡段的遊客提供了完美的海濱度假勝地。",
+    "visitGuide": {
+      "title": "參觀指南",
+      "items": [
+        "大雅茅斯海灘是一個免費對外開放的公共海灘，全天 24 小時均可進入。",
+        "進入海灘無需門票或預約。",
+        "我們建議在夏季前往，以享受全方位的海濱景點。",
+        "享受傳統的英國海濱體驗，包括炸魚薯條、遊樂中心和充滿活力的海濱長廊。"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "也稱為",
+      "items": [
+        "大雅茅斯海濱",
+        "海洋大道海灘",
+        "黃金英里"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "探索大雅茅斯的海岸魅力",
+    "sections": [
+      {
+        "id": "beach",
+        "title": "金色的沙灘",
+        "content": "大雅茅斯擁有數英里壯麗的沙灘，自 18 世紀末以來一直吸引著遊客。寬闊柔軟的沙灘非常適合堆沙堡、享受日光浴或在北海暢游。"
+      },
+      {
+        "id": "promenade",
+        "title": "黃金英里",
+        "content": "沿著海灘延伸的是著名的海洋大道，通常被稱為「黃金英里」。這條充滿活力的長廊上擠滿了景點，包括室內和室外遊樂園、瘋狂高爾夫球場、保齡球館以及標誌性的 Joyland 主題公園。"
+      },
+      {
+        "id": "piers",
+        "title": "歷史悠久的碼頭",
+        "content": "海灘兩側是兩座宏偉的歷史碼頭：不列顛尼亞碼頭和惠靈頓碼頭。兩者都提供各種娛樂選擇，從劇院裡的現場表演到傳統的遊樂中心，以及欣賞海岸線的壯麗景色。"
+      },
+      {
+        "id": "history",
+        "title": "豐富的海濱遺產",
+        "content": "大雅茅斯從一個繁華的漁港轉變為首屈一指的海濱度假勝地始於維多利亞時代。如今，它將豐富的航海歷史與現代家庭娛樂完美融合，使其成為度假者永恆的目的地。"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "照片集錦",
+    "subtitle": "海灘和海濱長廊的景色",
+    "captions": [
+      "Golden sands of Great Yarmouth",
+      "The vibrant Marine Parade",
+      "Historic Britannia Pier",
+      "Traditional seaside amusements",
+      "Sunset over the North Sea",
+      "Family fun on the beach"
+    ],
+    "viewAll": "在 Google Maps 查看位置"
+  },
+  "reviews": {
+    "title": "真實遊客評價",
+    "declaration": "資訊可透過 Google Maps 查看（外部連結）。",
+    "moreReviews": "在 Google Maps 查看位置",
+    "items": [
+      {
+        "name": "Sarah Johnson",
+        "date": "August 2025",
+        "rating": 5,
+        "text": "A fantastic beach with so much to do! The kids loved the amusements and the sand is perfect."
+      },
+      {
+        "name": "David Smith",
+        "date": "July 2025",
+        "rating": 4,
+        "text": "Great traditional British seaside. Gets busy in summer but there's plenty of space."
+      },
+      {
+        "name": "Emma Brown",
+        "date": "June 2025",
+        "rating": 5,
+        "text": "Beautiful wide sandy beach. The walk along the promenade is wonderful, especially with an ice cream!"
+      },
+      {
+        "name": "James Wilson",
+        "date": "September 2025",
+        "rating": 5,
+        "text": "Lovely clean beach and great facilities nearby. The piers are a must-visit."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "交通指南",
+    "subtitle": "47 Collingwood Rd, Great Yarmouth NR30 4LR, United Kingdom",
+    "openMaps": "在 Google Maps 查看"
+  },
+  "footer": {
+    "rights": "© 2026 大雅茅斯獨立旅遊研究協會 · 保留所有權利。",
+    "privacy": "隱私權政策",
+    "terms": "服務條款",
+    "cookies": "Cookie 設定",
+    "officialResourcesTitle": "相關資源與資訊",
+    "officialLinks": {
+      "council": "Great Yarmouth Borough Council",
+      "tourism": "Visit Great Yarmouth",
+      "england": "Visit England"
+    },
+    "disclaimer": "本網站是一個獨立的第三方旅遊資訊項目。我們與當地政府或其他官方機構沒有任何關聯。"
+  },
+  "privacy": {
+    "title": "隱私權政策",
+    "lastUpdated": "Last updated: March 2026",
+    "sections": [
+      {
+        "heading": "Information Collection",
+        "content": "We generally do not actively collect personally identifiable information from users."
+      }
+    ]
+  },
+  "terms": {
+    "title": "服務條款",
+    "lastUpdated": "Last updated: March 2026",
+    "sections": [
+      {
+        "heading": "Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 設定",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Strictly Necessary Cookies",
+      "description": "Required for basic website functionality.",
+      "badge": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "Help us understand how visitors interact with the site."
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "Used to track visitors across websites."
+    },
+    "save": "儲存設定",
+    "saved": "設定已儲存！"
+  },
+  "officialManagement": {
+    "title": "關於本專案",
+    "text": "本網站是一個獨立的第三方旅遊資訊項目。"
+  },
+  "recommendations": {
+    "title": "探索更多",
+    "attractionsTitle": "附近景點",
+    "toursTitle": "推薦行程與活動",
+    "attractions": [],
+    "tours": []
+  }
+}
