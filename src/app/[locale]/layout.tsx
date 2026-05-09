@@ -14,6 +14,11 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const { locale } = await params;
+
+  if (!routing.locales.includes(locale as any)) {
+    return {};
+  }
+
   const messages = (await import(`@/messages/${locale}.json`)).default;
   const baseUrl = 'https://greatyarmouthbeach.com';
 
