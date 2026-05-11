@@ -122,7 +122,10 @@
     "officialLinks": {
       "council": "Great Yarmouth Borough Council",
       "tourism": "Visit Great Yarmouth",
-      "england": "Visit England"
+      "england": "Visit England",
+      "gov": "GOV.UK",
+      "historic": "Historic England",
+      "eastEngland": "Visit East of England"
     },
     "disclaimer": "This website is an independent third-party tourist information project. We are not affiliated with the local government or any other official institutions."
   },
