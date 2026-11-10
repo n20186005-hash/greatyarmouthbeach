@@ -7,7 +7,9 @@
     "build": "node scripts/prepare-images.mjs && next build",
     "start": "next start",
     "lint": "next lint",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "build:preview": "opennextjs-cloudflare build --skipNextBuild --config wrangler.preview.jsonc --openNextConfigPath open-next.preview.config.ts",
+    "deploy:preview": "npm run build:preview && wrangler preview --config wrangler.preview.jsonc"
   },
   "dependencies": {
     "next": "15.5.29",
@@ -22,7 +24,9 @@
     "@types/react-dom": "^19.0.0",
     "tailwindcss": "^4.0.0",
     "typescript": "^5.7.0",
-    "sharp": "0.34.5"
+    "sharp": "0.34.5",
+    "@opennextjs/cloudflare": "1.20.16",
+    "wrangler": "4.148.0"
   },
   "packageManager": "npm@10.9.2",
   "engines": {
