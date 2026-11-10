@@ -1,33 +1,14 @@
+import {pageMetadata} from '@/lib/site';
+import {routing} from '@/i18n/routing';
 import { setRequestLocale } from 'next-intl/server';
 import { useTranslations, useLocale, useMessages } from 'next-intl';
 import type { Metadata } from 'next';
 
-export async function generateMetadata({
-  params,
-}: {
-  params: Promise<{ locale: string }>;
-}): Promise<Metadata> {
-  const { locale } = await params;
-  const baseUrl = 'https://greatyarmouthbeach.com';
-  const localePrefix = locale === 'it' ? '' : locale === 'en' ? '/en' : locale === 'fr' ? '/fr' : '/zh-Hant';
-  const itUrl = `${baseUrl}/privacy-policy`;
-  const enUrl = `${baseUrl}/en/privacy-policy`;
-  const frUrl = `${baseUrl}/fr/privacy-policy`;
-  const zhUrl = `${baseUrl}/zh-Hant/privacy-policy`;
-  const selfUrl = locale === 'it' ? itUrl : locale === 'en' ? enUrl : locale === 'fr' ? frUrl : zhUrl;
-
-  return {
-    alternates: {
-      canonical: selfUrl,
-      languages: {
-        'it': itUrl,
-        'en': enUrl,
-        'fr': frUrl,
-        'zh-Hant': zhUrl,
-        'x-default': itUrl,
-      },
-    },
-  };
+export async function generateMetadata({params}: {params: Promise<{locale: string}>}): Promise<Metadata> {
+ const {locale}=await params;
+ if (!routing.locales.includes(locale as typeof routing.locales[number])) return {robots:{index:false}};
+ const m=(await import(`@/messages/${locale}.json`)).default;
+ return pageMetadata(locale,'/privacy-policy',m.privacy.title+' | Great Yarmouth Beach',m.privacy.description || m.privacy.title+' · Great Yarmouth Beach');
 }
 
 function PrivacyContent() {
@@ -85,3 +66,4 @@ export default async function PrivacyPage({
   setRequestLocale(locale);
   return <PrivacyContent />;
 }
+

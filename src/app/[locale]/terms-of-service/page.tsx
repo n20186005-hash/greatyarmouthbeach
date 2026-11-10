@@ -1,32 +1,14 @@
+import {pageMetadata} from '@/lib/site';
+import {routing} from '@/i18n/routing';
 import { setRequestLocale } from 'next-intl/server';
 import { useTranslations, useLocale, useMessages } from 'next-intl';
 import type { Metadata } from 'next';
 
-export async function generateMetadata({
-  params,
-}: {
-  params: Promise<{ locale: string }>;
-}): Promise<Metadata> {
-  const { locale } = await params;
-  const baseUrl = 'https://greatyarmouthbeach.com';
-  const itUrl = `${baseUrl}/terms-of-service`;
-  const enUrl = `${baseUrl}/en/terms-of-service`;
-  const frUrl = `${baseUrl}/fr/terms-of-service`;
-  const zhUrl = `${baseUrl}/zh-Hant/terms-of-service`;
-  const selfUrl = locale === 'it' ? itUrl : locale === 'en' ? enUrl : locale === 'fr' ? frUrl : zhUrl;
-
-  return {
-    alternates: {
-      canonical: selfUrl,
-      languages: {
-        'it': itUrl,
-        'en': enUrl,
-        'fr': frUrl,
-        'zh-Hant': zhUrl,
-        'x-default': itUrl,
-      },
-    },
-  };
+export async function generateMetadata({params}: {params: Promise<{locale: string}>}): Promise<Metadata> {
+ const {locale}=await params;
+ if (!routing.locales.includes(locale as typeof routing.locales[number])) return {robots:{index:false}};
+ const m=(await import(`@/messages/${locale}.json`)).default;
+ return pageMetadata(locale,'/terms-of-service',m.terms.title+' | Great Yarmouth Beach',m.terms.description || m.terms.title+' · Great Yarmouth Beach');
 }
 
 function TermsContent() {
@@ -84,3 +66,4 @@ export default async function TermsPage({
   setRequestLocale(locale);
   return <TermsContent />;
 }
+

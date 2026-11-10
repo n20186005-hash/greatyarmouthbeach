@@ -1,116 +1,110 @@
 {
   "meta": {
-    "title": "大雅茅斯海灘 | 英國",
-    "description": "大雅茅斯海灘完整指南。營業時間、交通路線、照片和評論。"
+    "title": "Great Yarmouth Beach 大雅茅斯海灘：交通、安全與周邊景點",
+    "description": "規劃 Great Yarmouth Central Beach 與 Marine Parade 海濱行程，查閱海灘出入口、戲水安全及四個周邊景點的官方資訊。"
   },
   "header": {
     "home": "首頁",
     "gallery": "圖庫",
     "reviews": "評論",
     "map": "地圖",
-    "backToHome": "返回首頁"
+    "backToHome": "返回首頁",
+    "nearby": "周邊景點",
+    "navigation": "導覽",
+    "menu": "開啟導覽"
   },
   "hero": {
     "title": "大雅茅斯海灘",
-    "subtitle": "諾福克最具標誌性的海灘目的地",
-    "rating": "4.5(15,409)",
-    "reviewCount": "15,409 則評論",
-    "hours": "24 小時開放",
-    "openMaps": "查看位置"
+    "subtitle": "沙灘、Marine Parade 海濱與周邊參觀指南",
+    "rating": "Google Maps 評分 4.5/5",
+    "reviewCount": "15,803 則評論 · 2026年11月10日核對",
+    "hours": "海灘通行與救生員值勤時間不同",
+    "openMaps": "查看位置",
+    "imageAlt": "海面、碎浪與遠方離岸風力發電機",
+    "imageNote": "海岸參考照片，確切拍攝位置未核實。"
   },
   "intro": {
     "title": "探索海灘",
-    "description": "這片美麗的沙灘位於大雅茅斯海濱小鎮，是英國最受歡迎的海濱目的地之一。憑藉其金色的沙灘、歷史悠久的碼頭和無盡的娛樂活動，大雅茅斯海灘為各個年齡段的遊客提供了完美的海濱度假勝地。",
+    "description": "Great Yarmouth Central Beach 位於 Britannia Pier 與 Wellington Pier 之間，緊鄰 Marine Parade。本指南區分中央海濱、更廣的海岸線，以及各自營運的周邊景點。可依天氣與同行者需要，選擇沙灘、兒童遊樂設施、室內水族館或地方歷史博物館。",
     "visitGuide": {
       "title": "參觀指南",
       "items": [
-        "大雅茅斯海灘是一個免費對外開放的公共海灘，全天 24 小時均可進入。",
-        "進入海灘無需門票或預約。",
-        "我們建議在夏季前往，以享受全方位的海濱景點。",
-        "享受傳統的英國海濱體驗，包括炸魚薯條、遊樂中心和充滿活力的海濱長廊。"
+        "下水前查看天氣、潮汐與 RNLI 海灘資訊。有救生員值勤時，應在紅黃旗之間游泳。",
+        "公共海灘與收費景點的入場方式不同，組合行程前請分別查看營運日曆。",
+        "Visit Great Yarmouth 列有坡道與無障礙洗手間；出發前仍應確認所需出入口及輔具。",
+        "犬隻限制依海灘區域與季節而異，攜犬前請閱讀最新市政資訊及現場標示。"
       ]
     },
     "alsoKnownAs": {
-      "title": "也稱為",
+      "title": "先選擇海灘區域",
       "items": [
-        "大雅茅斯海濱",
-        "海洋大道海灘",
-        "黃金英里"
+        "Central Beach：Britannia Pier 與 Wellington Pier 之間",
+        "Marine Parade：海濱道路與步道",
+        "North Beach：Britannia Pier 以北"
       ]
     }
   },
   "knowledge": {
-    "title": "探索大雅茅斯的海岸魅力",
+    "title": "依需求安排海濱行程",
     "sections": [
       {
-        "id": "beach",
-        "title": "金色的沙灘",
-        "content": "大雅茅斯擁有數英里壯麗的沙灘，自 18 世紀末以來一直吸引著遊客。寬闊柔軟的沙灘非常適合堆沙堡、享受日光浴或在北海暢游。"
+        "id": "sand",
+        "title": "中央海灘與兩座碼頭",
+        "content": "Britannia Pier 與 Wellington Pier 是辨識 Central Beach 的實用地標。請留意潮間帶變化及現場告示。地圖上的定位點僅供辨位，不代表每一段沙灘都有相同設施。"
       },
       {
-        "id": "promenade",
-        "title": "黃金英里",
-        "content": "沿著海灘延伸的是著名的海洋大道，通常被稱為「黃金英里」。這條充滿活力的長廊上擠滿了景點，包括室內和室外遊樂園、瘋狂高爾夫球場、保齡球館以及標誌性的 Joyland 主題公園。"
-      },
-      {
-        "id": "piers",
-        "title": "歷史悠久的碼頭",
-        "content": "海灘兩側是兩座宏偉的歷史碼頭：不列顛尼亞碼頭和惠靈頓碼頭。兩者都提供各種娛樂選擇，從劇院裡的現場表演到傳統的遊樂中心，以及欣賞海岸線的壯麗景色。"
+        "id": "golden-mile",
+        "title": "Marine Parade 與 Golden Mile",
+        "content": "海濱結合沙灘與不同業者經營的娛樂設施。Joyland 鄰近 Britannia Pier，以兒童遊樂設施為主；SEA LIFE 位於 Wellington Pier 旁，適合安排室內水族館參觀。開放日期與票務須分別向業者確認。"
       },
       {
         "id": "history",
-        "title": "豐富的海濱遺產",
-        "content": "大雅茅斯從一個繁華的漁港轉變為首屈一指的海濱度假勝地始於維多利亞時代。如今，它將豐富的航海歷史與現代家庭娛樂完美融合，使其成為度假者永恆的目的地。"
+        "title": "漁港與海濱度假城鎮",
+        "content": "Time and Tide Museum 介紹鯡魚產業，以及 Great Yarmouth 作為港口與度假城鎮的發展。這是補充地方歷史的室內選擇，參觀前請確認博物館季節性開放時間與展覽。"
+      },
+      {
+        "id": "north",
+        "title": "北側的花園散步",
+        "content": "Venetian Waterways 位於 North Drive，緊鄰 North Beach。運河、小橋與植栽島嶼帶來不同於中央遊樂區的體驗。公園通行與租船服務應分別確認。"
       }
     ]
   },
   "gallery": {
     "title": "照片集錦",
-    "subtitle": "海灘和海濱長廊的景色",
+    "subtitle": "保留原站海岸照片；各張照片的確切拍攝地點尚未獨立核實。",
     "captions": [
-      "Golden sands of Great Yarmouth",
-      "The vibrant Marine Parade",
-      "Historic Britannia Pier",
-      "Traditional seaside amusements",
-      "Sunset over the North Sea",
-      "Family fun on the beach"
+      "沙灘與城鎮的高處視角",
+      "海盜造景人物與裝飾船隻",
+      "帶有 Empire 招牌的石造建築",
+      "戶外遊樂設施上的綠色人物",
+      "色彩鮮明的娛樂場所外觀",
+      "海濱上方的觀景摩天輪",
+      "帶有拱形入口的石造立面",
+      "亮燈的娛樂場所外觀",
+      "沿岸與城鎮的空中視角",
+      "多雲天空下的觀景摩天輪",
+      "沙灘與海濱步道的高處視角",
+      "海濱建築與紅色遮陽傘",
+      "海浪與離岸風力發電機",
+      "沙灘與碼頭",
+      "沙灘、海面與遠方風力發電機"
     ],
-    "viewAll": "在 Google Maps 查看位置"
+    "viewAll": "在 Google Maps 查看位置",
+    "previous": "上一張照片",
+    "next": "下一張照片",
+    "close": "關閉照片",
+    "open": "開啟照片",
+    "original": "查看原始照片"
   },
   "reviews": {
-    "title": "真實遊客評價",
-    "declaration": "資訊可透過 Google Maps 查看（外部連結）。",
+    "title": "Google Maps 評分資料",
+    "declaration": "2026年11月10日，Google Maps 顯示評分 4.5/5、15,803 則評論。這是外部平台的當日資料，最新旅客回饋請至來源查看。",
     "moreReviews": "在 Google Maps 查看位置",
-    "items": [
-      {
-        "name": "Sarah Johnson",
-        "date": "August 2025",
-        "rating": 5,
-        "text": "A fantastic beach with so much to do! The kids loved the amusements and the sand is perfect."
-      },
-      {
-        "name": "David Smith",
-        "date": "July 2025",
-        "rating": 4,
-        "text": "Great traditional British seaside. Gets busy in summer but there's plenty of space."
-      },
-      {
-        "name": "Emma Brown",
-        "date": "June 2025",
-        "rating": 5,
-        "text": "Beautiful wide sandy beach. The walk along the promenade is wonderful, especially with an ice cream!"
-      },
-      {
-        "name": "James Wilson",
-        "date": "September 2025",
-        "rating": 5,
-        "text": "Lovely clean beach and great facilities nearby. The piers are a must-visit."
-      }
-    ]
+    "items": []
   },
   "mapSection": {
     "title": "交通指南",
-    "subtitle": "47 Collingwood Rd, Great Yarmouth NR30 4LR, United Kingdom",
+    "subtitle": "Maps 地點資料：47 Collingwood Rd，NR30 4LR。Visit Great Yarmouth 為中央海灘列出的地址是 Seafront，NR30 2EN。啟動導航前請先選擇預計使用的海灘入口。",
     "openMaps": "在 Google Maps 查看"
   },
   "footer": {
@@ -131,29 +125,25 @@
   },
   "privacy": {
     "title": "隱私權政策",
-    "lastUpdated": "最後更新：2026年3月",
+    "lastUpdated": "資料核對：2026年11月10日 · Great Yarmouth Beach 編輯團隊",
     "sections": [
       {
-        "heading": "1. 資訊收集",
-        "content": "我們通常不會主動收集用戶的個人可識別資訊。您透過聯繫表單或電子郵件提供的任何資訊將被嚴格保密。"
+        "heading": "網站功能",
+        "content": "本資訊網站沒有帳號、訂房或聯絡表單。顯示主題偏好可能儲存在您的瀏覽器；託管服務會處理傳送網頁所需的請求。"
       },
       {
-        "heading": "2. 資訊使用",
-        "content": "我們收集的資訊僅用於提供、維護和改進我們的服務，以及與您溝通。我們不會將您的個人資訊出售或分享給第三方用於行銷目的。"
+        "heading": "外部資源",
+        "content": "網頁使用 Google Fonts、Google Maps 嵌入地圖及 Google AdSense 程式。載入時會向各服務商發送請求，服務商可能依其政策處理資料。外部連結導向分別管理的網站。"
       },
       {
-        "heading": "3. Cookie與追蹤技術",
-        "content": "我們使用Cookie和類似的追蹤技術來追蹤我們網站上的活動並保存某些資訊。您可以指示您的瀏覽器拒絕所有Cookie或在發送Cookie時進行提示。"
-      },
-      {
-        "heading": "4. 數據安全",
-        "content": "您數據的安全性對我們很重要。我們努力使用商業上可接受的方式來保護您的個人數據，但任何互聯網傳輸方法都無法保證100%安全。"
+        "heading": "瀏覽器管理",
+        "content": "您可透過瀏覽器設定管理網站儲存與第三方請求。清除本機儲存可能重設顯示偏好；本網站沒有能關閉全部外部服務的控制項。"
       }
     ]
   },
   "terms": {
     "title": "服務條款",
-    "lastUpdated": "最後更新：2026年3月",
+    "lastUpdated": "資料核對：2026年11月10日 · Great Yarmouth Beach 編輯團隊",
     "sections": [
       {
         "heading": "1. 接受條款",
@@ -165,7 +155,7 @@
       },
       {
         "heading": "3. 知識產權",
-        "content": "本網站上的所有內容（包括文本、圖像和徽標）均為網站所有者的財產（另有說明的除外）。嚴禁未經授權的使用、複製或分發。"
+        "content": "已提供的圖片標示會予以保留。在本網站展示不代表授予照片或其他內容的再利用許可。"
       },
       {
         "heading": "4. 責任限制",
@@ -175,7 +165,7 @@
   },
   "cookieSettings": {
     "title": "Cookie 設定",
-    "description": "Manage your cookie preferences.",
+    "description": "本頁說明網站儲存與外部服務。瀏覽器及外部服務商提供各自的管理設定。",
     "essential": {
       "title": "Strictly Necessary Cookies",
       "description": "Required for basic website functionality.",
@@ -190,17 +180,33 @@
       "description": "Used to track visitors across websites."
     },
     "save": "儲存設定",
-    "saved": "設定已儲存！"
+    "saved": "設定已儲存！",
+    "sections": [
+      {
+        "heading": "顯示偏好",
+        "content": "瀏覽器允許時，主題按鈕會以本機儲存保存淺色或深色偏好。"
+      },
+      {
+        "heading": "外部服務",
+        "content": "Google Fonts、Maps 及原有 AdSense 程式會向外部服務商發送請求。請查看各服務商的隱私資訊，並使用瀏覽器管理第三方儲存與請求。"
+      },
+      {
+        "heading": "管理資料",
+        "content": "請在瀏覽器設定管理或清除本網站資料。清除本機儲存可能重設顯示偏好，外部服務商另有自己的隱私與儲存設定。"
+      }
+    ]
   },
   "officialManagement": {
-    "title": "大雅茅斯海灘介紹",
-    "text": "Great Yarmouth Beach 由大雅茅斯自治市鎮議會（Great Yarmouth Borough Council）與諾福克郡政府（Norfolk County Council）共同管理維護。\n作為諾福克海岸標誌性的濱海休閒與歷史景觀，本海灘獲頒藍旗認證（Blue Flag），並被納入英國海岸自然與文化遺產保護體系。"
+    "title": "中央海濱概況",
+    "text": "Visit Great Yarmouth 將 Central Beach 定位於 Marine Parade 旁，並列有坡道、收費停車與公共洗手間。這些設施與附近景點沒有共同且全年保證的服務時間，請透過下列官方連結查閱最新資訊。"
   },
   "recommendations": {
-    "title": "探索更多",
+    "title": "海灘附近的四種參觀選擇",
     "attractionsTitle": "附近景點",
     "toursTitle": "推薦行程與活動",
     "attractions": [],
-    "tours": []
-  }
+    "tours": [],
+    "description": "比較兒童遊樂設施、室內水族館、地方歷史與花園散步。"
+  },
+  "editorialUpdated": "資料核對：2026年11月10日 · Great Yarmouth Beach 編輯團隊"
 }

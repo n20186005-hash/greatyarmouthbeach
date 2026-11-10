@@ -20,12 +20,8 @@ export default function MapEmbed() {
           className="map-container relative rounded-xl overflow-hidden"
           style={{ border: '1px solid var(--map-border)' }}
         >
-          {/*
-            NOTE: Google Maps attribution is hidden via CSS (.gm-style-cc, .gmnoprint).
-            This is for visual cleanliness only. Google's Terms of Service apply.
-          */}
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19183.16104033282!2d1.7161947239632342!3d52.59751070966442!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d9ed75f1b1c67f%3A0xc34d70b7410e30d2!2sGreat%20Yarmouth%20Beach!5e0!3m2!1sen!2suk!4v1714510014129!5m2!1sen!2suk"
+            src="https://maps.google.com/maps?q=52.6035422,1.7385548&z=14&output=embed"
             width="100%"
             height="450"
             style={{ border: 0 }}
@@ -61,3 +57,4 @@ export default function MapEmbed() {
     </section>
   );
 }
+

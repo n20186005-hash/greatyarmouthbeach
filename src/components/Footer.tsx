@@ -24,7 +24,7 @@ export default function Footer() {
               <a href="https://www.great-yarmouth.gov.uk/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
                 {t('officialLinks.council')}
               </a>
-              <a href="https://www.great-yarmouth.co.uk/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+              <a href="https://www.visitgreatyarmouth.co.uk/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
                 {t('officialLinks.tourism')}
               </a>
               <a href="https://www.visitengland.com/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
@@ -65,3 +65,4 @@ export default function Footer() {
     </footer>
   );
 }
+

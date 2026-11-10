@@ -24,7 +24,7 @@ export default function InfoSection() {
             >
               <div className="flex-1 w-full bg-white/5 p-8 rounded-2xl border border-white/10 shadow-sm hover:shadow-md transition-shadow">
                 <div className="flex items-center gap-4 mb-4">
-                  <div className="w-10 h-10 rounded-full flex items-center justify-center font-bold text-lg" style={{ background: 'var(--accent)', color: 'white' }}>
+                  <div className="w-10 h-10 shrink-0 rounded-full flex items-center justify-center font-bold text-lg" style={{ background: 'var(--accent)', color: 'white' }}>
                     {index + 1}
                   </div>
                   <h3
@@ -35,7 +35,7 @@ export default function InfoSection() {
                   </h3>
                 </div>
                 <p
-                  className="text-lg leading-relaxed ml-14"
+                  className="text-lg leading-relaxed sm:ml-14"
                   style={{ color: 'var(--text-secondary)' }}
                 >
                   {section.content}
@@ -48,3 +48,4 @@ export default function InfoSection() {
     </section>
   );
 }
+
