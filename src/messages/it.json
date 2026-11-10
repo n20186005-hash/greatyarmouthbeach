@@ -1,124 +1,118 @@
 {
   "meta": {
-    "title": "Great Yarmouth Beach | Regno Unito",
-    "description": "大雅茅斯海灘完整指南。營業時間、交通路線、照片和評論。"
+    "title": "Great Yarmouth Beach: accesso, sicurezza e luoghi vicini",
+    "description": "Organizza la visita a Central Beach e Marine Parade: accessi, sicurezza in mare e quattro guide alle attrazioni vicine con fonti ufficiali."
   },
   "header": {
     "home": "Home",
-    "gallery": "Gallery",
-    "reviews": "Reviews",
-    "map": "Map",
-    "backToHome": "Back to Home"
+    "gallery": "Galleria",
+    "reviews": "Recensioni",
+    "map": "Mappa",
+    "backToHome": "Torna alla pagina iniziale",
+    "nearby": "Dintorni",
+    "navigation": "Navigazione",
+    "menu": "Apri navigazione"
   },
   "hero": {
     "title": "大雅茅斯海灘",
-    "subtitle": "諾福克最具標誌性的海灘目的地",
-    "rating": "4.5(15,409)",
-    "reviewCount": "15,409 則評論",
-    "hours": "24 小時開放",
-    "openMaps": "查看位置"
+    "subtitle": "La spiaggia sabbiosa, Marine Parade e le visite nei dintorni",
+    "rating": "4,5/5 su Google Maps",
+    "reviewCount": "15.803 recensioni · verifica 10 nov 2026",
+    "hours": "Accesso alla spiaggia diverso dal servizio bagnini",
+    "openMaps": "Apri su Google Maps",
+    "imageAlt": "Mare, onde e turbine eoliche al largo",
+    "imageNote": "Fotografia costiera di riferimento. Punto di ripresa non verificato."
   },
   "intro": {
-    "title": "探索海灘",
-    "description": "這片美麗的沙灘位於大雅茅斯海濱小鎮，是英國最受歡迎的海濱目的地之一。憑藉其金色的沙灘、歷史悠久的碼頭和無盡的娛樂活動，大雅茅斯海灘為各個年齡段的遊客提供了完美的海濱度假勝地。",
+    "title": "Scopri la spiaggia",
+    "description": "Central Beach a Great Yarmouth si trova tra Britannia Pier e Wellington Pier, accanto a Marine Parade. Questa guida distingue il lungomare centrale dal resto della costa e dalle attrazioni gestite separatamente. Scegli tra spiaggia, giostre per bambini, acquario al coperto e storia locale in base al meteo e al tuo gruppo.",
     "visitGuide": {
-      "title": "參觀指南",
+      "title": "Guida alla visita",
       "items": [
-        "大雅茅斯海灘是一個免費對外開放的公共海灘，全天 24 小時均可進入。",
-        "進入海灘無需門票或預約。",
-        "我們建議在夏季前往，以享受全方位的海濱景點。",
-        "享受傳統的英國海濱體驗，包括炸魚薯條、遊樂中心和充滿活力的海濱長廊。"
+        "Controlla meteo, maree e informazioni RNLI prima di entrare in acqua. Nuota tra le bandiere rosse e gialle quando sono presenti i bagnini.",
+        "Spiaggia pubblica e attrazioni a pagamento hanno modalità di accesso diverse. Controlla il calendario di ogni gestore.",
+        "Visit Great Yarmouth segnala rampe e servizi igienici accessibili. Conferma il punto di accesso e gli ausili necessari prima del viaggio.",
+        "Le restrizioni per i cani dipendono da zona e stagione. Consulta il comune e la segnaletica sul posto."
       ]
     },
     "alsoKnownAs": {
-      "title": "也稱為",
+      "title": "Scegli la zona della spiaggia",
       "items": [
-        "大雅茅斯海濱",
-        "海洋大道海灘",
-        "黃金英里"
+        "Central Beach: tra Britannia e Wellington Pier",
+        "Marine Parade: strada e passeggiata sul lungomare",
+        "North Beach: a nord di Britannia Pier"
       ]
     }
   },
   "knowledge": {
-    "title": "探索大雅茅斯的海岸魅力",
+    "title": "Scegli come organizzare la visita",
     "sections": [
       {
-        "id": "beach",
-        "title": "金色的沙灘",
-        "content": "大雅茅斯擁有數英里壯麗的沙灘，自 18 世紀末以來一直吸引著遊客。寬闊柔軟的沙灘非常適合堆沙堡、享受日光浴或在北海暢游。"
+        "id": "sand",
+        "title": "Central Beach e i moli",
+        "content": "Britannia e Wellington Pier aiutano a orientarsi a Central Beach. Considera le variazioni della battigia e gli avvisi sul posto. Il segnaposto sulla mappa non garantisce che ogni tratto di spiaggia offra gli stessi servizi."
       },
       {
-        "id": "promenade",
-        "title": "黃金英里",
-        "content": "沿著海灘延伸的是著名的海洋大道，通常被稱為「黃金英里」。這條充滿活力的長廊上擠滿了景點，包括室內和室外遊樂園、瘋狂高爾夫球場、保齡球館以及標誌性的 Joyland 主題公園。"
-      },
-      {
-        "id": "piers",
-        "title": "歷史悠久的碼頭",
-        "content": "海灘兩側是兩座宏偉的歷史碼頭：不列顛尼亞碼頭和惠靈頓碼頭。兩者都提供各種娛樂選擇，從劇院裡的現場表演到傳統的遊樂中心，以及欣賞海岸線的壯麗景色。"
+        "id": "golden-mile",
+        "title": "Marine Parade e il Golden Mile",
+        "content": "Il lungomare unisce la spiaggia ad attrazioni con gestori diversi. Joyland offre giostre per bambini vicino a Britannia Pier; SEA LIFE propone un acquario al coperto accanto a Wellington Pier. Calendari e biglietti vanno verificati con i singoli gestori."
       },
       {
         "id": "history",
-        "title": "豐富的海濱遺產",
-        "content": "大雅茅斯從一個繁華的漁港轉變為首屈一指的海濱度假勝地始於維多利亞時代。如今，它將豐富的航海歷史與現代家庭娛樂完美融合，使其成為度假者永恆的目的地。"
+        "title": "Un porto di pescatori e una località balneare",
+        "content": "Time and Tide Museum racconta l’industria delle aringhe e lo sviluppo di Great Yarmouth come porto e località di villeggiatura. Aggiunge un contesto storico alla giornata al mare. Controlla orari stagionali e mostre del museo."
+      },
+      {
+        "id": "north",
+        "title": "Una passeggiata nei giardini a nord",
+        "content": "I Venetian Waterways si trovano su North Drive, accanto a North Beach. Canali, ponti e isole piantumate offrono una visita diversa dalla zona dei divertimenti. Accesso al parco e noleggio barche sono servizi distinti."
       }
     ]
   },
   "gallery": {
-    "title": "照片集錦",
-    "subtitle": "海灘和海濱長廊的景色",
+    "title": "Galleria fotografica",
+    "subtitle": "Fotografie costiere già presenti sul sito. Le singole località non sono state verificate indipendentemente.",
     "captions": [
-      "Golden sands of Great Yarmouth",
-      "The vibrant Marine Parade",
-      "Historic Britannia Pier",
-      "Traditional seaside amusements",
-      "Sunset over the North Sea",
-      "Family fun on the beach"
+      "Vista elevata di spiaggia e città",
+      "Figure di pirati e nave decorativa",
+      "Edificio in pietra con insegna Empire",
+      "Personaggio verde sopra una giostra",
+      "Facciata colorata di attrazioni",
+      "Ruota panoramica sul lungomare",
+      "Facciata in pietra con ingresso ad arco",
+      "Facciata illuminata di attrazioni",
+      "Vista aerea di costa e città",
+      "Ruota panoramica sotto le nuvole",
+      "Vista elevata di spiaggia e passeggiata",
+      "Edifici sul mare e ombrelloni rossi",
+      "Onde e turbine eoliche al largo",
+      "Spiaggia sabbiosa e molo",
+      "Spiaggia, mare e turbine lontane"
     ],
-    "viewAll": "在 Google Maps 查看位置"
+    "viewAll": "Apri su Google Maps",
+    "previous": "Foto precedente",
+    "next": "Foto successiva",
+    "close": "Chiudi fotografia",
+    "open": "Apri fotografia",
+    "original": "Apri fotografia originale"
   },
   "reviews": {
-    "title": "真實遊客評價",
-    "declaration": "資訊可透過 Google Maps 查看（外部連結）。",
-    "moreReviews": "在 Google Maps 查看位置",
-    "items": [
-      {
-        "name": "Sarah Johnson",
-        "date": "August 2025",
-        "rating": 5,
-        "text": "A fantastic beach with so much to do! The kids loved the amusements and the sand is perfect."
-      },
-      {
-        "name": "David Smith",
-        "date": "July 2025",
-        "rating": 4,
-        "text": "Great traditional British seaside. Gets busy in summer but there's plenty of space."
-      },
-      {
-        "name": "Emma Brown",
-        "date": "June 2025",
-        "rating": 5,
-        "text": "Beautiful wide sandy beach. The walk along the promenade is wonderful, especially with an ice cream!"
-      },
-      {
-        "name": "James Wilson",
-        "date": "September 2025",
-        "rating": 5,
-        "text": "Lovely clean beach and great facilities nearby. The piers are a must-visit."
-      }
-    ]
+    "title": "Valutazione su Google Maps",
+    "declaration": "Il 10 novembre 2026 Google Maps mostrava 4,5/5 su 15.803 recensioni. È una rilevazione di una piattaforma esterna. Consulta la fonte per i commenti aggiornati.",
+    "moreReviews": "Apri su Google Maps",
+    "items": []
   },
   "mapSection": {
-    "title": "交通指南",
-    "subtitle": "47 Collingwood Rd, Great Yarmouth NR30 4LR, United Kingdom",
-    "openMaps": "在 Google Maps 查看"
+    "title": "Come arrivare",
+    "subtitle": "Scheda Maps: 47 Collingwood Rd, NR30 4LR. Visit Great Yarmouth indica per Central Beach Seafront, NR30 2EN. Scegli l’ingresso desiderato prima di avviare le indicazioni.",
+    "openMaps": "Apri su Google Maps"
   },
   "footer": {
-    "rights": "© 2026 大雅茅斯獨立旅遊研究協會 · 保留所有權利。",
-    "privacy": "隱私權政策",
-    "terms": "服務條款",
-    "cookies": "Cookie 設定",
-    "officialResourcesTitle": "相關資源與資訊",
+    "rights": "© 2026 Great Yarmouth Independent Travel Research Association · Tutti i diritti riservati.",
+    "privacy": "Informativa sulla privacy",
+    "terms": "Termini di servizio",
+    "cookies": "Impostazioni cookie",
+    "officialResourcesTitle": "Risorse e informazioni",
     "officialLinks": {
       "council": "Great Yarmouth Borough Council",
       "tourism": "Visit Great Yarmouth",
@@ -127,55 +121,51 @@
       "historic": "Historic England",
       "eastEngland": "Visit East of England"
     },
-    "disclaimer": "本網站是一個獨立的第三方旅遊資訊項目。我們與當地政府或其他官方機構沒有任何關聯。"
+    "disclaimer": "Questo sito è un progetto indipendente di informazioni turistiche. Non è affiliato al governo locale o ad altre istituzioni ufficiali."
   },
   "privacy": {
-    "title": "Privacy Policy",
-    "lastUpdated": "Last updated: March 2026",
+    "title": "Informativa sulla privacy",
+    "lastUpdated": "Verifica 10 novembre 2026 · Redazione Great Yarmouth Beach",
     "sections": [
       {
-        "heading": "1. Information Collection",
-        "content": "We generally do not actively collect personally identifiable information from users. Any information provided by you through contact forms or emails will be kept strictly confidential."
+        "heading": "Funzioni del sito",
+        "content": "Questo sito informativo non offre account, prenotazioni o moduli di contatto. La preferenza del tema può essere memorizzata nel browser. I servizi di hosting elaborano le richieste necessarie a consegnare le pagine."
       },
       {
-        "heading": "2. Use of Information",
-        "content": "The information we collect is used solely to provide, maintain, and improve our services, and to communicate with you. We do not sell or share your personal information with third parties for marketing purposes."
+        "heading": "Risorse esterne",
+        "content": "Le pagine utilizzano Google Fonts, una mappa Google incorporata e uno script Google AdSense. Il caricamento invia richieste ai fornitori, che possono elaborare dati secondo le proprie informative. I collegamenti esterni portano a siti gestiti separatamente."
       },
       {
-        "heading": "3. Cookies and Tracking",
-        "content": "We use cookies and similar tracking technologies to track the activity on our website and hold certain information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent."
-      },
-      {
-        "heading": "4. Data Security",
-        "content": "The security of your data is important to us. We use commercially acceptable means to protect your Personal Data, though no method of transmission over the Internet is 100% secure."
+        "heading": "Controlli del browser",
+        "content": "Usa le impostazioni del browser per gestire dati locali e richieste a terzi. Cancellare la memoria locale può reimpostare il tema. Il sito non offre un comando che disattivi ogni servizio esterno."
       }
     ]
   },
   "terms": {
-    "title": "Terms of Service",
-    "lastUpdated": "Last updated: March 2026",
+    "title": "Termini di servizio",
+    "lastUpdated": "Verifica 10 novembre 2026 · Redazione Great Yarmouth Beach",
     "sections": [
       {
-        "heading": "1. Acceptance of Terms",
-        "content": "By accessing and using this website, you agree to be bound by these terms of service. If you disagree with any part of the terms, you may not access the service."
+        "heading": "1. Accettazione dei termini",
+        "content": "Accedendo e utilizzando questo sito accetti questi termini. Se non li accetti, non utilizzare il servizio."
       },
       {
-        "heading": "2. Use of Service",
-        "content": "This website is an independent third-party tourist information project. The information provided is for general informational purposes only. You agree to use the site responsibly and lawfully."
+        "heading": "2. Utilizzo del servizio",
+        "content": "Questo sito è un progetto indipendente di informazioni turistiche. I contenuti sono forniti per informazione generale. Usa il sito in modo responsabile e lecito."
       },
       {
-        "heading": "3. Intellectual Property",
-        "content": "All content on this website, including texts, images, and logos, is the property of the website owner unless otherwise stated. Unauthorized use, reproduction, or distribution is strictly prohibited."
+        "heading": "3. Materiali e crediti",
+        "content": "I crediti sono conservati quando forniti. La visualizzazione sul sito non autorizza il riutilizzo di fotografie o altro materiale."
       },
       {
-        "heading": "4. Limitation of Liability",
-        "content": "We shall not be held liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use this website or the information contained herein."
+        "heading": "4. Limitazione di responsabilità",
+        "content": "Non rispondiamo di danni diretti, indiretti, incidentali o conseguenti derivanti dall’uso o dall’impossibilità di usare il sito o le informazioni contenute."
       }
     ]
   },
   "cookieSettings": {
-    "title": "Cookie 設定",
-    "description": "Manage your cookie preferences.",
+    "title": "Impostazioni cookie",
+    "description": "Questa pagina spiega la memorizzazione locale e i servizi esterni. Browser e fornitori esterni hanno controlli propri.",
     "essential": {
       "title": "Strictly Necessary Cookies",
       "description": "Required for basic website functionality.",
@@ -190,17 +180,33 @@
       "description": "Used to track visitors across websites."
     },
     "save": "儲存設定",
-    "saved": "設定已儲存！"
+    "saved": "設定已儲存！",
+    "sections": [
+      {
+        "heading": "Preferenza di visualizzazione",
+        "content": "Il controllo del tema salva la preferenza chiara o scura nella memoria locale quando il browser lo consente."
+      },
+      {
+        "heading": "Servizi esterni",
+        "content": "Google Fonts, Maps e lo script AdSense mantenuto sul sito inviano richieste a fornitori esterni. Consulta le loro informative e i controlli del browser."
+      },
+      {
+        "heading": "Gestire i dati",
+        "content": "Gestisci o cancella i dati del sito nelle impostazioni del browser. Cancellare la memoria locale può reimpostare il tema. I fornitori esterni hanno controlli propri."
+      }
+    ]
   },
   "officialManagement": {
-    "title": "Informazioni su Great Yarmouth Beach",
-    "text": "Great Yarmouth Beach è gestita e mantenuta congiuntamente dal Great Yarmouth Borough Council e dal Norfolk County Council.\nCome iconico paesaggio storico e di svago balneare sulla costa del Norfolk, la spiaggia è stata premiata con la certificazione Bandiera Blu (Blue Flag) ed è inclusa nel sistema di protezione del patrimonio naturale e culturale costiero del Regno Unito."
+    "title": "Il lungomare centrale",
+    "text": "Visit Great Yarmouth colloca Central Beach accanto a Marine Parade e segnala rampe, parcheggi a pagamento e bagni pubblici. Servizi e attrazioni non seguono un unico orario garantito tutto l’anno. Consulta i collegamenti ufficiali per gli aggiornamenti."
   },
   "recommendations": {
-    "title": "探索更多",
-    "attractionsTitle": "附近景點",
-    "toursTitle": "推薦行程與活動",
+    "title": "Quattro visite vicino alla spiaggia",
+    "attractionsTitle": "Attrazioni vicine",
+    "toursTitle": "Tour e attività consigliati",
     "attractions": [],
-    "tours": []
-  }
+    "tours": [],
+    "description": "Confronta giostre per bambini, acquario al coperto, storia locale e giardini."
+  },
+  "editorialUpdated": "Verifica 10 novembre 2026 · Redazione Great Yarmouth Beach"
 }

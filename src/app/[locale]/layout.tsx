@@ -20,7 +20,7 @@ export async function generateMetadata({
   }
 
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://greatyarmouthbeach.com';
+  const baseUrl = 'https://www.greatyarmouthbeach.com';
 
   const itUrl = `${baseUrl}/`;
   const enUrl = `${baseUrl}/en`;
@@ -31,16 +31,6 @@ export async function generateMetadata({
   return {
     title: messages.meta.title,
     description: messages.meta.description,
-    alternates: {
-      canonical: selfUrl,
-      languages: {
-        'it': itUrl,
-        'en': enUrl,
-        'fr': frUrl,
-        'zh-Hant': zhUrl,
-        'x-default': itUrl,
-      },
-    },
     openGraph: {
       title: messages.meta.title,
       description: messages.meta.description,
@@ -96,3 +86,4 @@ export default async function LocaleLayout({
     </html>
   );
 }
+

@@ -8,12 +8,14 @@ export default function Hero() {
       {/* Background image */}
       <div className="absolute inset-0">
         <img
-          src="/gallery/images (13).jpg"
-          alt="Great Yarmouth Beach"
+          src="/gallery/optimized/image-13.webp"
+          alt={t('imageAlt')}
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
       </div>
+
+      <p className="absolute bottom-2 left-4 right-4 text-center text-xs text-white/80">{t('imageNote')}</p>
 
       {/* Content */}
       <div className="relative z-10 max-w-6xl mx-auto px-4 sm:px-6 w-full">
@@ -66,3 +68,4 @@ export default function Hero() {
     </section>
   );
 }
+

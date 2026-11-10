@@ -45,6 +45,9 @@ export default function LanguageToggle() {
     // Construct new path
     const pathWithoutLocale = segments.length > 0 ? `/${segments.join('/')}` : '/';
     
+    // Persist the existing locale choice before the native middleware resolves the target.
+    document.cookie = `NEXT_LOCALE=${next}; Path=/; SameSite=Lax`;
+
     // Navigate
     if (next === routing.defaultLocale) {
       router.push(pathWithoutLocale);
@@ -63,6 +66,7 @@ export default function LanguageToggle() {
           color: 'var(--tag-text)',
         }}
         aria-label="Switch language"
+        aria-expanded={open}
       >
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
           <circle cx="12" cy="12" r="10"/>
@@ -101,3 +105,4 @@ export default function LanguageToggle() {
     </div>
   );
 }
+

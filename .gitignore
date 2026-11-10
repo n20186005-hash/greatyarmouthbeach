@@ -52,3 +52,9 @@ next-env.d.ts
 *.njsproj
 *.sln
 *.sw?
+
+/public/gallery/optimized/
+
+.open-next/
+.wrangler/
+.dev.vars

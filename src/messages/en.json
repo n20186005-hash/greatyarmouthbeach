@@ -1,116 +1,110 @@
 {
   "meta": {
-    "title": "Great Yarmouth Beach | United Kingdom",
-    "description": "Complete guide to Great Yarmouth Beach in the United Kingdom. Hours, directions, photos and reviews."
+    "title": "Great Yarmouth Beach: access, safety and nearby visits",
+    "description": "Plan Great Yarmouth Central Beach and Marine Parade with source-checked access notes, sea safety and four nearby attraction guides."
   },
   "header": {
     "home": "Home",
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",
-    "backToHome": "Back to Home"
+    "backToHome": "Back to Home",
+    "nearby": "Nearby",
+    "navigation": "Navigation",
+    "menu": "Open navigation"
   },
   "hero": {
     "title": "Great Yarmouth Beach",
-    "subtitle": "The most iconic beach destination in Norfolk",
-    "rating": "4.5(15,409)",
-    "reviewCount": "15,409 reviews",
-    "hours": "Open 24 hours",
-    "openMaps": "View Location"
+    "subtitle": "Sandy beach, Marine Parade and visits beyond the seafront",
+    "rating": "4.5/5 on Google Maps",
+    "reviewCount": "15,803 reviews · checked 10 Nov 2026",
+    "hours": "Beach access differs from lifeguard cover",
+    "openMaps": "View Location",
+    "imageAlt": "Sea, breaking waves and offshore wind turbines",
+    "imageNote": "Coastal reference photograph. Exact viewpoint unverified."
   },
   "intro": {
     "title": "Discover the Beach",
-    "description": "Located in the coastal town of Great Yarmouth, this beautiful sandy beach is one of the UK's most popular seaside destinations. With its golden sands, historic piers, and endless entertainment, Great Yarmouth Beach offers a perfect coastal getaway for visitors of all ages.",
+    "description": "Great Yarmouth Central Beach lies between Britannia and Wellington Piers beside Marine Parade. This guide distinguishes the central seafront from the wider coastline and the separate attractions around it. Choose a beach visit, a children’s ride, an indoor aquarium or local history according to the weather and your group.",
     "visitGuide": {
       "title": "Visit Guide",
       "items": [
-        "Great Yarmouth Beach is a public beach open for free, accessible 24 hours a day.",
-        "No tickets or reservations are required to access the beach.",
-        "We recommend visiting during the summer months to enjoy the full range of seaside attractions.",
-        "Enjoy the traditional British seaside experience, complete with fish and chips, amusement arcades, and a vibrant promenade."
+        "Check the weather, tide and RNLI beach information before entering the sea. Swim between red-and-yellow flags when lifeguards are present.",
+        "The public beach and the ticketed attractions have different access arrangements. Check each operator’s calendar before combining them.",
+        "Visit Great Yarmouth lists ramps and accessible toilets. Confirm the particular access point and any equipment you need before travelling.",
+        "Dog restrictions vary by beach zone and season. Read current council guidance and local signs before bringing a dog."
       ]
     },
     "alsoKnownAs": {
-      "title": "Also Known As",
+      "title": "Find your beach area",
       "items": [
-        "Great Yarmouth Seafront",
-        "Marine Parade Beach",
-        "The Golden Mile"
+        "Central Beach: between Britannia and Wellington Piers",
+        "Marine Parade: the seafront road and promenade",
+        "North Beach: north of Britannia Pier"
       ]
     }
   },
   "knowledge": {
-    "title": "Explore Great Yarmouth's Coastal Charm",
+    "title": "Choose the right part of your visit",
     "sections": [
       {
-        "id": "beach",
-        "title": "The Golden Sands",
-        "content": "Great Yarmouth boasts miles of glorious sandy beaches that have attracted visitors since the late 18th century. The wide, soft sandy shores are perfect for building sandcastles, sunbathing, or taking a refreshing dip in the North Sea."
+        "id": "sand",
+        "title": "Central Beach and the piers",
+        "content": "Britannia and Wellington Piers are useful landmarks for locating Central Beach. Stay aware of the changing shoreline and on-site notices. A map pin is a meeting reference, not a guarantee that every stretch of sand has the same facilities."
       },
       {
-        "id": "promenade",
-        "title": "The Golden Mile",
-        "content": "Running alongside the beach is the famous Marine Parade, often referred to as the 'Golden Mile'. This vibrant promenade is packed with attractions, including indoor and outdoor amusement parks, crazy golf courses, bowling alleys, and the iconic Joyland theme park."
-      },
-      {
-        "id": "piers",
-        "title": "Historic Piers",
-        "content": "The beach is framed by two magnificent historic piers: the Britannia Pier and the Wellington Pier. Both offer a variety of entertainment options, from live shows in their theaters to traditional amusement arcades and stunning views across the coastline."
+        "id": "golden-mile",
+        "title": "Marine Parade and the Golden Mile",
+        "content": "The seafront combines the beach with separately operated entertainment. Joyland serves a children’s-ride visit near Britannia Pier, while SEA LIFE offers an indoor aquarium visit beside Wellington Pier. Opening dates and ticket arrangements belong to those operators."
       },
       {
         "id": "history",
-        "title": "A Rich Seaside Heritage",
-        "content": "Great Yarmouth's transition from a bustling fishing port to a premier seaside resort began in the Victorian era. Today, it beautifully blends its rich maritime history with modern family entertainment, making it a timeless destination for holidaymakers."
+        "title": "A fishing town as well as a seaside resort",
+        "content": "Time and Tide Museum explores Great Yarmouth’s herring industry and its development as a port and resort. It gives a beach day historical context without depending on beach weather. Check the museum’s seasonal hours and exhibitions."
+      },
+      {
+        "id": "north",
+        "title": "A garden walk to the north",
+        "content": "The Venetian Waterways lie on North Drive alongside North Beach. Canals, bridges and planted islands create a different visit from the central amusement strip. Park access and boat hire are separate services."
       }
     ]
   },
   "gallery": {
     "title": "Photo Gallery",
-    "subtitle": "Views from the beach and promenade",
+    "subtitle": "Original coastal photographs. Individual locations have not been independently verified.",
     "captions": [
-      "Golden sands of Great Yarmouth",
-      "The vibrant Marine Parade",
-      "Historic Britannia Pier",
-      "Traditional seaside amusements",
-      "Sunset over the North Sea",
-      "Family fun on the beach"
+      "Elevated view of a sandy shoreline and town",
+      "Pirate-themed figures and a model ship",
+      "Stone building with an Empire sign",
+      "Green character above an outdoor ride",
+      "Colourful amusement frontage",
+      "Observation wheel above the seafront",
+      "Tall stone façade with arched entrance",
+      "Illuminated amusement frontage",
+      "Aerial view along the coast and town",
+      "Observation wheel beneath cloudy skies",
+      "Elevated view of the beach and promenade",
+      "Seafront buildings and red parasols",
+      "Waves and offshore wind turbines",
+      "Sandy beach and a pier",
+      "Beach, sea and distant wind turbines"
     ],
-    "viewAll": "View locations on Google Maps"
+    "viewAll": "View locations on Google Maps",
+    "previous": "Previous photo",
+    "next": "Next photo",
+    "close": "Close photograph",
+    "open": "Open photograph",
+    "original": "View original photograph"
   },
   "reviews": {
-    "title": "Visitor Reviews",
-    "declaration": "Visitor feedback can be viewed via Google Maps (external link).",
+    "title": "Google Maps rating snapshot",
+    "declaration": "Google Maps showed 4.5/5 from 15,803 reviews on 10 November 2026. This is an external listing snapshot. Read current visitor feedback at the source.",
     "moreReviews": "View locations on Google Maps",
-    "items": [
-      {
-        "name": "Sarah Johnson",
-        "date": "August 2025",
-        "rating": 5,
-        "text": "A fantastic beach with so much to do! The kids loved the amusements and the sand is perfect."
-      },
-      {
-        "name": "David Smith",
-        "date": "July 2025",
-        "rating": 4,
-        "text": "Great traditional British seaside. Gets busy in summer but there's plenty of space."
-      },
-      {
-        "name": "Emma Brown",
-        "date": "June 2025",
-        "rating": 5,
-        "text": "Beautiful wide sandy beach. The walk along the promenade is wonderful, especially with an ice cream!"
-      },
-      {
-        "name": "James Wilson",
-        "date": "September 2025",
-        "rating": 5,
-        "text": "Lovely clean beach and great facilities nearby. The piers are a must-visit."
-      }
-    ]
+    "items": []
   },
   "mapSection": {
     "title": "How to Get Here",
-    "subtitle": "47 Collingwood Rd, Great Yarmouth NR30 4LR, United Kingdom",
+    "subtitle": "Maps listing: 47 Collingwood Rd, NR30 4LR. For Central Beach, Visit Great Yarmouth lists Seafront, NR30 2EN. Choose your intended beach entrance before starting directions.",
     "openMaps": "View on Google Maps"
   },
   "footer": {
@@ -131,29 +125,25 @@
   },
   "privacy": {
     "title": "Privacy Policy",
-    "lastUpdated": "Last updated: March 2026",
+    "lastUpdated": "Checked 10 November 2026 · Great Yarmouth Beach editorial team",
     "sections": [
       {
-        "heading": "1. Information Collection",
-        "content": "We generally do not actively collect personally identifiable information from users. Any information provided by you through contact forms or emails will be kept strictly confidential."
+        "heading": "Site functions",
+        "content": "This information site has no account, booking or contact form. Theme preferences may be stored in your browser. Hosting services process requests to deliver the pages."
       },
       {
-        "heading": "2. Use of Information",
-        "content": "The information we collect is used solely to provide, maintain, and improve our services, and to communicate with you. We do not sell or share your personal information with third parties for marketing purposes."
+        "heading": "External resources",
+        "content": "Pages use Google Fonts, a Google Maps embed and a Google AdSense script. Those services receive browser requests when their resources load and may process information under their own policies. External links open separately managed websites."
       },
       {
-        "heading": "3. Cookies and Tracking",
-        "content": "We use cookies and similar tracking technologies to track the activity on our website and hold certain information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent."
-      },
-      {
-        "heading": "4. Data Security",
-        "content": "The security of your data is important to us. We use commercially acceptable means to protect your Personal Data, though no method of transmission over the Internet is 100% secure."
+        "heading": "Browser controls",
+        "content": "Use browser settings to manage site storage and third-party requests. Removing local storage may reset your display preference. This site does not provide a control that switches off every external service."
       }
     ]
   },
   "terms": {
     "title": "Terms of Service",
-    "lastUpdated": "Last updated: March 2026",
+    "lastUpdated": "Checked 10 November 2026 · Great Yarmouth Beach editorial team",
     "sections": [
       {
         "heading": "1. Acceptance of Terms",
@@ -165,7 +155,7 @@
       },
       {
         "heading": "3. Intellectual Property",
-        "content": "All content on this website, including texts, images, and logos, is the property of the website owner unless otherwise stated. Unauthorized use, reproduction, or distribution is strictly prohibited."
+        "content": "Credits are retained where supplied. Display on this website does not grant permission to reuse photographs or other material."
       },
       {
         "heading": "4. Limitation of Liability",
@@ -175,7 +165,7 @@
   },
   "cookieSettings": {
     "title": "Cookie Settings",
-    "description": "Manage your cookie preferences.",
+    "description": "This page explains the site’s storage and external services. Your browser and the external providers offer their own controls.",
     "essential": {
       "title": "Strictly Necessary Cookies",
       "description": "Required for basic website functionality.",
@@ -190,17 +180,33 @@
       "description": "Used to track visitors across websites."
     },
     "save": "Save Preferences",
-    "saved": "Preferences saved!"
+    "saved": "Preferences saved!",
+    "sections": [
+      {
+        "heading": "Display storage",
+        "content": "The theme control saves a light or dark preference in local storage when your browser allows it."
+      },
+      {
+        "heading": "External services",
+        "content": "Google Fonts, Maps and the retained AdSense script make requests to external providers. See their privacy information and use browser controls for third-party storage and requests."
+      },
+      {
+        "heading": "Managing your choice",
+        "content": "Manage or clear this site’s data in your browser settings. Clearing local storage can reset the display preference. External providers have their own privacy and storage controls."
+      }
+    ]
   },
   "officialManagement": {
-    "title": "About Great Yarmouth Beach",
-    "text": "Great Yarmouth Beach is jointly managed and maintained by the Great Yarmouth Borough Council and the Norfolk County Council.\nAs an iconic seaside leisure and historical landscape on the Norfolk coast, the beach has been awarded the Blue Flag certification and is included in the UK's coastal natural and cultural heritage protection system."
+    "title": "About the central seafront",
+    "text": "Visit Great Yarmouth places Central Beach beside Marine Parade and identifies ramps, paid parking and public toilets. Those facilities and the nearby attractions do not share one guaranteed year-round operating schedule. Use the official links below for the current details."
   },
   "recommendations": {
-    "title": "Discover More",
+    "title": "Four visits near the beach",
     "attractionsTitle": "Nearby Attractions",
     "toursTitle": "Recommended Tours & Activities",
     "attractions": [],
-    "tours": []
-  }
+    "tours": [],
+    "description": "Compare children’s rides, an indoor aquarium, local history and a garden walk."
+  },
+  "editorialUpdated": "Checked 10 November 2026 · Great Yarmouth Beach editorial team"
 }
